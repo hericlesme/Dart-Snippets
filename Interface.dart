@@ -21,6 +21,11 @@ class Square implements Shape {
   num get area => pow(side, 2);
 }
 
+class CircleMock implements Circle {
+  num area;
+  num radius;
+}
+
 main() {
   final circle = Shape('circle');
   final square = Shape('square');
