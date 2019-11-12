@@ -1,1 +1,2 @@
-# DartSnippets
+# Dart Snippets
+Dart code snippets
